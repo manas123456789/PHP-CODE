@@ -1,0 +1,9 @@
+First we need to download xampp server.
+xammp--->x company name
+          a apache
+           m maria db
+           m mysql
+           p php
+Then install it
+Next just select the drive and goto htdocs and create a file in there 
+At last start coding
